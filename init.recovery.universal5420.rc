@@ -1,0 +1,2 @@
+on init
+	write /sys/fs/selinux/enforce 0
