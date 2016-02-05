@@ -69,3 +69,4 @@ TW_CRYPTO_FS_TYPE := "ext4"
 BOARD_CUSTOM_BOOTIMG_MK := device/samsung/hlltexx/custombootimg.mk
 TW_NO_EXFAT := true
 TW_NO_EXFAT_FUSE := true
+TARGET_RECOVERY_PIXEL_FORMAT := "ABGR_8888"
